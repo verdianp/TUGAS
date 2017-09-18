@@ -1,0 +1,37 @@
+@font-face{
+	font-family: "web-Raleway";
+	src:url('../fonts/Raleway-Regular.eot');
+	src:url('../fonts/Raleway-Regular.eot#iefix') format("embedded-opentype");
+	url('../fonts/Raleway-Regular.woff') format("woff"),
+	url('../fonts/Raleway-Regular.ttf') format("truetype"),
+	url('../fonts/Raleway-Regular.svg#web') format("svg");
+	font-style: normal;font-weight: normal;
+}
+@font-face{
+	font-family: "web-Raleway-Bold";
+	src:url('../fonts/Raleway-Bold.eot');
+	src:url('../fonts/Raleway-Bold.eot#iefix') format("embedded-opentype");
+	url('../fonts/Raleway-Bold.woff') format("woff"),
+	url('../fonts/Raleway-Bold.ttf') format("truetype"),
+	url('../fonts/Raleway-Bold.svg#web') format("svg");
+	font-style: normal;font-weight: normal;
+}
+
+body{
+	margin : 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+.clear{
+
+	float: none;
+	clear: both;
+}
+.center{
+	width: 961px;
+	margin: 0 auto;
+}
+#hader{
+	padding: 40px 0;
+
+}
